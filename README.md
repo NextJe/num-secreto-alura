@@ -1,0 +1,1 @@
+Bom, esse foi meu primeiro projeto de programação feito com acompanhamento de professores, em 21/04/2024, estou muito orgulhoso, mesmo não tendo feito totalmente sozinho. Sei que ainda tenho um longo caminho a percorrer e daqui a um ano eu venho editar esse ReadMe  para atualizar meu progresso nessa nova estrada comom programador!
